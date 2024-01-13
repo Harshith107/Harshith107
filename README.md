@@ -1,11 +1,6 @@
 <h1 align="center">Hi 🙋🏽‍♂️, I'm Harshith</h1>
 <p align="left"> <a href="https://twitter.com/hxrsh107" target="blank"><img src="https://img.shields.io/twitter/follow/hxrsh107?logo=twitter&style=for-the-badge" alt="hxrsh107" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Computing**
-
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **Web dev**
 
 - 📫 How to reach me **harshithm1022@gmail.com**
 
